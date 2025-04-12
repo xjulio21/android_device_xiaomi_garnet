@@ -1,0 +1,14 @@
+[
+   {
+     "repository": "crdroidandroid/android_xiaomi_kernel_garnet",
+     "target_path": "device/xiaomi/garnet-prebuilt"
+   },
+   {
+     "repository": "crdroidandroid/proprietary_vendor_xiaomi_garnet",
+     "target_path": "vendor/xiaomi/garnet"
+   },
+   {
+     "repository": "crdroidandroid/android_hardware_xiaomi",
+     "target_path": "hardware/xiaomi"
+   }
+ ]
